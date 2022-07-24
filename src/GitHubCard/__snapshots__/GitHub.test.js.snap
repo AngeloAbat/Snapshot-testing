@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing for snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://avatars.githubusercontent.com/u/97714011?s…00&u=40d3905460e52677f0efd55aabc3283d85dfd1f4&v=4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Angelo Abat
+      </div>
+      <p
+        className="card-text"
+      >
+        I want to go out and eat.
+      </p>
+    </div>
+  </div>
+</div>
+`;
